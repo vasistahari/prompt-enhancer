@@ -3,7 +3,7 @@
 Prompt Enhancer is a Chrome extension that supercharges your prompts on popular AI chat platforms like **ChatGPT**, **Google Gemini**, and **Perplexity AI**. With a single click, your prompt is rewritten to be clearer, more specific, and more effective—using the power of the **Google Gemini API** (with a free API key).
 
 <p align="center">
-  <img src="./interface.png" alt="Prompt Enhancer Screenshot" width="600"/>
+  <img src="./screenshots/interface.png" alt="Prompt Enhancer Screenshot" width="600"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Prompt Enhancer is a Chrome extension that supercharges your prompts on popular 
 ## 🖼️ Example
 
 <p align="center">
-  <img src="./interface.png" alt="Prompt Enhancer Screenshot" width="600"/>
+  <img src="./screenshots/interface.png" alt="Prompt Enhancer Screenshot" width="600"/>
 </p>
 
 ---
